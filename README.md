@@ -19,12 +19,18 @@
 
 ```bash
 > cd Ratchel/
-> chmod +x install.sh 
+> apt install nodejs -y
+apt install ffmpeg libwebp -y
+apt install wget -y
+apt install imagemagick -y
+apt install tesseract-ocr -y
 
->bash install.sh 
-
-> npm start
-
+apt install termimage
+apt install toilet
+apt install cowsay
+npm install package.json
+npm i node-tesseract-ocr
+npm i @adiwajshing/baileys@3.4.1
 ```
 
 ## Características
